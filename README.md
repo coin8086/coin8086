@@ -1,6 +1,3 @@
-👋 Nice to meet you!
+"Don’t ignore your dreams; don’t work too much; say what you think; cultivate friendships; be happy."
 
-<!---
-coin8086/coin8086 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+“不要忽视梦想；不要过度工作；说心里话；交朋友；要开心！”
